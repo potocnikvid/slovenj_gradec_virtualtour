@@ -175,4 +175,4 @@ HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-ali
 ### Description
 
 ### Title
-tour.name = Slovenj Gradec
+tour.name = Municipality of Slovenj Gradec – 360° virtual tour
